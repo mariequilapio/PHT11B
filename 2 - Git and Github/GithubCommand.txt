@@ -24,3 +24,9 @@ git commit -m "This is your message / description of the changes you made"
 
 git checkout -- <filename> // for undo
 git reset HEAD <filename> //for canceling or revert
+
+git log --oneline // to check history
+git log --oneline // to check history who edited the file
+git branch BRANCHNAME //create branch
+git branch -a //check branch status
+git switch BRANCHNAME //switch branch

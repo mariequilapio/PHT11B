@@ -7,5 +7,20 @@ git config --global user.email "marienicolequilapio@gmail.com"
 git config user.name
 git config user.email
 
-====== OTHER COMMANDS ========
-git init - change into master
+- Initialize Git Repository
+git init
+
+=== Git Three Stages ===
+- Check the status of our files
+git status
+
+- Add the files into the staging area
+git add .
+git add [filename.ext]
+
+- Create a commit
+git commit -m "This is your message / description of the changes you made"
+
+
+git checkout -- <filename> // for undo
+git reset HEAD <filename> //for canceling or revert

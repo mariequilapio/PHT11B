@@ -30,3 +30,5 @@ git log --oneline // to check history who edited the file
 git branch BRANCHNAME //create branch
 git branch -a //check branch status
 git switch BRANCHNAME //switch branch
+git merge BRANCHNAME //merge branch to master or other branch
+git branch -d BRANCHNAME //delete branch

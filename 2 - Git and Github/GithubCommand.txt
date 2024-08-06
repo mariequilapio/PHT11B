@@ -1,0 +1,11 @@
+========= CONFIGURING GIT AND GITHUB ============
+
+git config --global user.name "mariequilapio"
+git config --global user.email "marienicolequilapio@gmail.com"
+
+======= CHECK IF CONFIGURED CORRECTLY =======
+git config user.name
+git config user.email
+
+====== OTHER COMMANDS ========
+git init - change into master

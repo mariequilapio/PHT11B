@@ -1,0 +1,30 @@
+
+1.) Creating Directory
+mkdir (directory_name)
+
+2.) Clear Terminal
+clear
+
+3.) Delete Directory
+rmdir (directory_name)
+
+4.) Check Current Directory
+pwd
+
+5.) List Command (show the content of the current directory)
+ls
+
+6. Change Direcotry 
+cd [directory_path]
+
+7. To go back main directory
+cd ..
+
+8. Create a file
+touch (filename.ext)
+
+9.) Delete a file
+rm(filename.ext)
+
+
+

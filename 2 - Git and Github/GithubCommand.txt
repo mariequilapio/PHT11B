@@ -32,3 +32,7 @@ git branch -a //check branch status
 git switch BRANCHNAME //switch branch
 git merge BRANCHNAME //merge branch to master or other branch
 git branch -d BRANCHNAME //delete branch
+git remote add origin [repository-link]
+git clone [link] // copy ssh url from repository to clone
+git pull origin main //pulling changes from a remote repository
+git push origin main //push your work changes to the remote repository
